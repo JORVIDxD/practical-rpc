@@ -1,0 +1,6 @@
+*.class
+*.db
+*.jks
+*.txt
+*.log
+.DS_Store
