@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Arquitectura de Invocación Remota (RPC, Java RMI & Servicios Heterogéneos)
 
 **Instituto Politécnico Nacional**  
