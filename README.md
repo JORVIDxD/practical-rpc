@@ -19,11 +19,11 @@ Este repositorio contiene la implementación práctica e integradora de tres esq
 
 ## 🛠️ Requisitos del Sistema
 
-* **Sistema Operativo:** Fedora Server 44 (o equivalente Linux)[cite: 1]
-* **Java Development Kit (JDK):** JDK 19 o superior[cite: 1]
-* **Servidor Web:** Nginx 1.30+ con `fcgiwrap`[cite: 1]
-* **Base de Datos:** SQLite 3 con driver JDBC[cite: 1]
-* **Herramientas Auxiliares:** `curl`, `jq`, `tcpdump`, `bc`[cite: 1]
+* **Sistema Operativo:** Fedora Server 44 (o equivalente Linux)
+* **Java Development Kit (JDK):** JDK 19 o superior
+* **Servidor Web:** Nginx 1.30+ con `fcgiwrap`
+* **Base de Datos:** SQLite 3 con driver JDBC
+* **Herramientas Auxiliares:** `curl`, `jq`, `tcpdump`, `bc`
 
 ---
 
